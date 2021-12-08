@@ -31,7 +31,7 @@
   <div class="column middle" style="background-color:#e5c6c1;">
     <center><h2>Profil Pribadi</h2>
 	<img src="https://bit.ly/39WVLQ1";>
-    <p>Halo! Nama saya Dhira Ramadini, lahir di Bandung, 13 November 2003. Berzodiak Scorpio, berMBTI INTP, dan saya penyuka kucing.
+    <p>Halo! Nama saya Dhira Ramadini, lahir di Bandung, 13 November 2003. Zodiak saya Scorpio, MBTI INTP, dan TMI saya penyuka kucing.
 	Saat ini saya bersekolah di SMK Negri 11 Bandung dan mengambil jurusan Rekayasa Perangkat Lunak.
 	Walaupun saya belum punya skill mumpuni, tapi saya terus belajar, belajar, dan belajar untuk menjadi programmer handal.
 	Salam kenal dan Selamat datang di website pertama saya!</p>

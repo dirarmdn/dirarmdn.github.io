@@ -32,8 +32,8 @@
     <center><h2>Hobby</h2>
 	<img src="https://bit.ly/3kURXVU";>
 	<p>Berbicara tentang hobi, saya punya banyak hobi. Salah satu hobi yang paling saya gemari adalah Membaca.
-	Saya suka membaca komik, novel, juga light novel dan webtoon. Disela kesibukan saya suka menerjemahkan light novel bahasa inggris.
-	Saya juga suka bermain game online juga menulis cerpen.</p>
+	Saya suka membaca komik, novel, juga light novel dan webtoon. Disela kesibukan saya suka menerjemahkan light novel berbahasa inggris.
+	Selain membaca, saya juga suka bermain game online, menonton series, juga menulis cerpen.</p>
     </div>
   <div class="column right" style="background-color:#f3d9d5;">
     <h2>About</h2>

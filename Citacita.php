@@ -33,7 +33,9 @@
 	<img src="https://bit.ly/3mhAPJE";>
 	<p>Bicara soal cita-cita. Saya tentunya ingin menjadi seorang Developer. Terutama Developer Game.
 	Saya tahu itu sulit, namun saya pikir saya bisa mewujudkannya jika saya berusaha.
-	Saya ingin membuat game yang ditargetkan untuk player wanita seperti saya.</p>
+	Saya ingin membuat game yang ditargetkan untuk player wanita seperti saya. 
+  Namun fokus saya untuk saat ini adalah menjadi Full-stack web developer.
+Kenapa? karena saat ini yang saya harus kuasai adalah itu, jadi saya mau fokus dulu pada satu bidang</p>
     </div>
   <div class="column right" style="background-color:#f3d9d5;">
     <h2>About</h2>
